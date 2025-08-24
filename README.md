@@ -11,7 +11,7 @@
 ## 🧰 My Tech Bar:
 
 
-### ☁️ AI & Cloud
+### ☁️ Cloud & AI
 
 <img width="312" height="39" alt="image" src="https://github.com/user-attachments/assets/a499eacb-b91f-4b7c-ba52-0d2d9eab2812" />
 
@@ -21,6 +21,16 @@
 
 ## <img width="210" height="44" alt="image" src="https://github.com/user-attachments/assets/6764dd2a-8843-44eb-ba3f-8d77278dad44" />
 
+<img width="557" height="308" alt="image" src="https://github.com/user-attachments/assets/79be3f35-cd76-44fa-87e6-9e69da3eb19f" />
 
+<img width="329" height="154" alt="image" src="https://github.com/user-attachments/assets/cd78800d-5de1-4e38-b4ce-39faeaf44a29" />
+
+
+### Future Aspiration:
+
+* Kubernetes and Cloud Native Associate      - KCNA (Anticipated: January  - 2025)
+* Certified Kubernetes Administrator         - CKA  (Anticipated: January  - 2025)
+* Certified Kubernetes Application Developer - CKAD (Anticipated: February - 2025)
+* Certified Kubernetes Security Engineer     - CKSE (Anticipated: February - 2026)
 
 
