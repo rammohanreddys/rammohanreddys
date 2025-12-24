@@ -1,0 +1,39 @@
+- working as lead devops consultant at ust with, 
+
+over 11+ years of extensive experince in cloud and devops platform, leading a team of 4 team members &
+
+My resposibilities includes:
+
+I'm responsible for desing and automate end to end CICD pipeline automation for software system lifecycle.
+
+Also defining security best practises across cicd pipelines and mentoring the team to follow them.
+
+and helping development teams on their build and deployment issues,
+
+maintaining the infrastructure automation using IAC tools, 
+
+and defing the k8s manifest files for microservices with the help of helm charts
+
+vulnerabililty detection and fixing
+
+verifying the scurity non compliance issues (container images, json keys, certificates) should not across the byond threshold vaules and fixing those
+
+rotate the golden images for all the virtual machines on monthly basis
+
+maintaining & upgrading istio versions for k8s clusters
+
+closely monitoring all production workloads with datadog & prometheus dashboards for alerts and 
+
+Aknowledging and responding to incidents with pagerduty alerts and oncall rotation
+
+maintaining the performance and capacity planning
+
+involving in cloud cost optimization meetings and detecting untagged, unused resources performing clean activity. and 
+
+updating storage lifecycles policies if any
+
+
+
+
+
+
